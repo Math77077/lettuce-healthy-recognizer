@@ -1,13 +1,17 @@
 videos/
 disease-lettuce-4/
 disease-lettuce-4_rebalanced/
-
 treinamento_lettuce_results/
 runs/
 models/
 *.pt
 *.pth
 
-
-
 venv/
+.venv/
+.vscode/
+.idea/
+
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/

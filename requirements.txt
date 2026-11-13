@@ -1,0 +1,9 @@
+python_version >= 3.14.8
+torch==2.14.0
+ultralytics==8.4.208
+numpy>=1.26.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+pyyaml>=6.0
+matplotlib>=3.7.0
+ipython>=8.0.0
